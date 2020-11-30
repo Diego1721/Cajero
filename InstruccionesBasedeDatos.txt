@@ -1,0 +1,2 @@
+Para Ingresar a la base de datos se necesita el programa SQLiteDatabaseBrowserPortable que esta adjunto
+se arrastra el archivo Cliente hacia el programa.
