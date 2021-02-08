@@ -1,2 +1,2 @@
 # Cajero
-Simulacion de un cajero hecho con Python y SQLDatabaseBrowser
+Simulation of an ATM made with Python and SQLDatabaseBrowser
